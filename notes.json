@@ -1,0 +1,24 @@
+{
+  "agenda": [
+    "Where can I use ES6?",
+    "Transpiling ES6 to ES5 - Webpack and Babel Register",
+    "Const and Let",
+    "Arrow Functions",
+    "Template Strings",
+    "Enhanced Object Literals: shorthand property assignment, methods, computed property names",
+    "Classes",
+    "Destructuring",
+    "Default, Rest, Destructuring arguments",
+    "Modules: Import and Export keywords",
+    "Native Promises",
+    "Symbols?",
+    "Maps and Sets?",
+    "Generators?"
+  ],
+  "es6 list": "https://github.com/lukehoban/es6features",
+  "ES6 feature implementation": "https://kangax.github.io/compat-table/es6/",
+  "name": "Jacob Turner",
+  "linkedin": "linkedin.com/in/jisraelturner",
+  "twitter": "@jisraelturner",
+  "work": "Spero"
+}
